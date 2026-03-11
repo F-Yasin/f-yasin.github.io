@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Fall 2023 - Fall 2025: Teaching Assistant
+* Spring 2023 - Fall 2025: Teaching Assistant 
   * University of Central Florida
   * Duties included: Grading assignments, holding office hours, assisting students in class
   * Supervisor: UCF Economics Department
