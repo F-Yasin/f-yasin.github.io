@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Business Analytics, University of Central Florida 2025
+* M.S. in Business Analytics, University of Central Florida, 2025
 * B.S. in Economics, University of Central Florida, 2024
 
 Work experience
