@@ -23,7 +23,7 @@ Work experience
 
 * Fall 2024 - Fall 2025: Research Assistant
   * University of Central Florida
-  * Duties included: Completing a Dataset and computing other metrics
+  * Duties included: Completing a dataset and computing other metrics
   * Supervisor: Professor John Solow
   
 
